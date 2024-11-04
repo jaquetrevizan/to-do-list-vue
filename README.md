@@ -2,6 +2,8 @@
 
 Este é um projeto de lista de tarefas (To-Do List) desenvolvido com Vue.js, que permite adicionar, editar, marcar como concluídas e remover tarefas. A aplicação utiliza Vuex para o gerenciamento de estado, garantindo que todas as tarefas sejam centralizadas e atualizadas de forma eficiente. Além disso, inclui uma página de estatísticas que exibe um gráfico das tarefas concluídas e pendentes usando o ApexCharts.
 
+Você pode acessá-la [aqui](https://jt-todo-list-vue.netlify.app).
+
 <h2>⚡️Funcionalidades</h2>
 
 - Adicionar novas tarefas
